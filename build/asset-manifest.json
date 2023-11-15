@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b7bed9b1.css",
+    "main.js": "/static/js/main.ae780510.js",
+    "static/js/787.00c12b01.chunk.js": "/static/js/787.00c12b01.chunk.js",
+    "static/media/SCS, Website, Nazar Abbas Malik (Wasnal) (1).png": "/static/media/SCS, Website, Nazar Abbas Malik (Wasnal) (1).aded2edb527ca7e2a2fe.png",
+    "static/media/4.jpg": "/static/media/4.689891bc734c94f5e24c.jpg",
+    "static/media/9.jpg": "/static/media/9.0f0453cbd220656133a0.jpg",
+    "static/media/2.jpg": "/static/media/2.a9216fb8f503b8f4f549.jpg",
+    "static/media/11.jpg": "/static/media/11.7c541eb166992d940f76.jpg",
+    "static/media/5.jpg": "/static/media/5.00d72b2318e6e647af74.jpg",
+    "static/media/7.jpg": "/static/media/7.3258ce8a0e245b3fc9c6.jpg",
+    "static/media/8.jpg": "/static/media/8.badad96d37e9815bef03.jpg",
+    "static/media/1.jpg": "/static/media/1.1d3e18e983351f7df5bb.jpg",
+    "static/media/10.jpg": "/static/media/10.7a27b72e9d95e1b5f357.jpg",
+    "static/media/6.jpg": "/static/media/6.841bcf4f051c1fc07486.jpg",
+    "static/media/3.jpg": "/static/media/3.7a454b751e0b77ea871a.jpg",
+    "static/media/WhatsApp Image 2023-11-11 at 12.05.37 PM.jpeg": "/static/media/WhatsApp Image 2023-11-11 at 12.05.37 PM.b2793c9d7a5c76ec0285.jpeg",
+    "static/media/pngegg.png": "/static/media/pngegg.209a7d04ff027a74b089.png",
+    "index.html": "/index.html",
+    "main.b7bed9b1.css.map": "/static/css/main.b7bed9b1.css.map",
+    "main.ae780510.js.map": "/static/js/main.ae780510.js.map",
+    "787.00c12b01.chunk.js.map": "/static/js/787.00c12b01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7bed9b1.css",
+    "static/js/main.ae780510.js"
+  ]
+}
